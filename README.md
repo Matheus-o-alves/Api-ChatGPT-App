@@ -20,8 +20,3 @@ A camada repository contém o código para fazer as requisições na API do Chat
 # Camada UI
 A camada UI é responsável por exibir a interface visual do aplicativo. Ela utiliza o modelo de dados das mensagens para exibir as conversas e permite que os usuários interajam com o chatbot.
 
-# Como utilizar o aplicativo
-Para utilizar o aplicativo, basta clonar este repositório e executar o projeto em um emulador ou dispositivo físico. É necessário ter as tecnologias Flutter, getX e htt instaladas no computador para que o aplicativo funcione corretamente.
-
-# Conclusão
-O ChatGpt App é um aplicativo desenvolvido para testar a API do ChatGpt utilizando as tecnologias Flutter. Ele é uma ótima opção para quem deseja explorar as possibilidades do ChatGpt e criar chatbots personalizados e poderosos. O código-fonte do aplicativo está disponível no meu GitHub, para que outros desenvolvedores possam baixar, estudar e fazer suas próprias modificações.
