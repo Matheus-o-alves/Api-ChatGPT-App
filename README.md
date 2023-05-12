@@ -1,16 +1,18 @@
-# gpt_chat_app
+# Tecnologias utilizadas
+Flutter,
+getX e
+htt
+# Estrutura do projeto
+O projeto está dividido em quatro camadas principais:
 
-A new Flutter project.
+# Camada Models
+Esta camada contém o modelo de dados das mensagens utilizadas no chatbot. As mensagens são armazenadas em uma lista e são exibidas na tela conforme a conversa acontece.
 
-## Getting Started
+# Camada Presenter
+A camada presenter é responsável por gerenciar o estado do aplicativo. Ela é responsável por intermediar a comunicação entre as outras camadas e garantir que o aplicativo funcione corretamente.
 
-This project is a starting point for a Flutter application.
+# Camada Repository
+A camada repository contém o código para fazer as requisições na API do ChatGpt e obter as respostas do chatbot. Esta camada é responsável por intermediar a comunicação entre o aplicativo e a API.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Camada UI
+A camada UI é responsável por exibir a interface visual do aplicativo. Ela utiliza o modelo de dados das mensagens para exibir as conversas e permite que os usuários interajam com o chatbot.
