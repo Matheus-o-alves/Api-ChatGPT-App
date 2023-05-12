@@ -1,6 +1,3 @@
-# ChatGpt App
-Este é um aplicativo desenvolvido para testar a API do ChatGpt utilizando as tecnologias Flutter e getX para gerenciar o estado da tela. O objetivo deste aplicativo é permitir que os usuários possam testar diferentes cenários de conversação com o chatbot do ChatGpt.
-
 # Tecnologias utilizadas
 Flutter
 getX
