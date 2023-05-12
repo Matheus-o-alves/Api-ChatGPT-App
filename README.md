@@ -1,8 +1,8 @@
 # Tecnologias utilizadas
-Flutter
-getX
+Flutter,
+getX e
 htt
-Estrutura do projeto
+# Estrutura do projeto
 O projeto está dividido em quatro camadas principais:
 
 # Camada Models
